@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-    <h3> 🌇 Andy Chia | 💻 Software Developer | 🌌 Ottawa, CAN </h3> 
+    🌇 Andy Chia | 💻 Software Developer | 🌌 Ottawa, CAN
 
 
 </div>
